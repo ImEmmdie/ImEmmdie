@@ -4,7 +4,6 @@
 - 🖥️ I’m into selfhosting and servers
 - 👩🏼‍💻 i have proxmox server's 
 - 👩🏼‍💻 i only do things that can make my life easier or quicker most of my repositories will be about proxmox and self hosted services / Apps 
-- 👩🏻‍🦳 fake blonde but the mind is there 😂
 - ✉️ if anyone see this message me on github or if you find something interesting or need fixing you can too 😉 @167588775+ImEmmdie@users.noreply.github.com
 
 <!---
