@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emilie i'm half 🇫🇷/🇷🇺 i do stuff when i'm bored or ADHD kick's in 👩🏼‍💻
-- 👩🏼‍💻 I'm a apple addict using MacOS for everything i do 
+- 👩🏼‍💻 I'm a apple addict using MacOS for everything i do tho i run many windows / linux VM/CT
 - 💻 some of my code is for MacOS and Iterm2 my terminal of choice
 - 🖥️ I’m into selfhosting and servers
 - 👩🏼‍💻 i have proxmox server's 
